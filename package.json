@@ -1,0 +1,23 @@
+{
+  "name": "financeos-mcp",
+  "version": "1.0.0",
+  "description": "FinanceOS MCP Server - Real-time financial superpowers for Claude",
+  "main": "dist/index.js",
+  "type": "module",
+  "bin": {
+    "financeos-mcp": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "node --loader ts-node/esm src/index.ts",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}
