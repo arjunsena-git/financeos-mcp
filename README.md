@@ -94,15 +94,20 @@ Open the URL shown → Connect → click any tool → Run.
 
 ---
 
-## 💰 Pricing (Pro Version)
+## 🚀 Pro Version
 
-| Plan | Price | Features |
-|---|---|---|
-| Free | $0 | 3 tools, 50 calls/day |
-| Pro | $19/mo | All 7 tools, unlimited calls |
-| Team | $49/mo | Multi-user, webhooks, priority support |
+Want FinanceOS without any installation?
+No Node.js, no config files, ready in 60 seconds.
 
-**Get Pro:** [your-gumroad-link-here]
+**[FinanceOS MCP Pro — $19/month →](https://workdayseeker.gumroad.com/l/uyqimr)**
+
+- ✅ No installation required
+- ✅ Higher rate limits  
+- ✅ 1 week free trial
+- ✅ Priority support
+- ✅ Early access to v2 tools (coming soon)
+
+Free version always available here on GitHub.
 
 ---
 
