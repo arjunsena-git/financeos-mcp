@@ -1,3 +1,8 @@
+[![financeos-mcp MCP server](https://glama.ai/mcp/servers/arjunsena-git/financeos-mcp/badges/score.svg)](https://glama.ai/mcp/servers/arjunsena-git/financeos-mcp)
+
+# 💰 FinanceOS MCP...
+
+
 # FinanceOS MCP 💰
 
 > Real-time finance & crypto superpowers for Claude. Built for investors, by an investor.
