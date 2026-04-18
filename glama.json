@@ -1,0 +1,6 @@
+{
+  "name": "FinanceOS MCP",
+  "description": "Real-time financial superpowers for Claude — crypto prices, stock quotes, portfolio P&L, Bittensor stats, Fear & Greed index and more. 8 tools, zero API keys needed.",
+  "categories": ["finance", "cryptocurrency"],
+  "license": "MIT"
+}
